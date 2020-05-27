@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Kitsu</string>
+
+
+    <string name="maintitle">Main Title</string>
+    <string name="canontitle">Canonical Title</string>
+    <string name="type">Type</string>
+    <string name="year">Year</string>
+    <string name="genres">Genres</string>
+    <string name="averager">Average Rating</string>
+    <string name="ager">Age Rating</string>
+    <string name="airingstatus">Airing Status</string>
+    <string name="episoded">Episode Duration</string>
+    <string name="trailer">Watch trailer</string>
+
+    <string name="synopsys">Synopsis</string>
+</resources>
